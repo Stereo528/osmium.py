@@ -1,0 +1,10 @@
+[universal]
+githubToken = ""
+ownerRoleOrUser = "role"
+
+[discord]
+botPrefix = "os!"
+botToken = ""
+# depending on the above "ownerRoleOrUser" setting, this can be either a role ID or a user ID:
+ownerRoleID = ""
+ownerUserID = ""
